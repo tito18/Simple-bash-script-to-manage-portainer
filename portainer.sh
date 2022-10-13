@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ver="portainer/portainer-ce:2.13.1-alpine"
+ver="portainer/portainer-ce:2.15.1-alpine"
 
 PS3='Choose an option to portainer: '
 opts=("stop" "start" "changeVER" "viewVER" "quit")
